@@ -26,6 +26,16 @@ The goal of this project is to practise programming skills and learn how to work
 2. Enter the numbers you want to calculate with.
 3. View the result.
 
+## Reflection
+1. Why should developers use feature branches?
+This allows you to keep a working version of the main program and have a testing branch where you can test newer features
+2. What caused the merge conflict?
+2 changes to the same lines in the same file on different branches
+3. How did GitHub help you resolve it?
+It adds buttons which allows u to chose which version u keep, or both
+4. Why are pull requests useful in teams
+This allows u to make others review your new feature and only after its been checked and or tested they can approve and add it to the main
+
 ### MIT License reference
 
 This project is licensed under the MIT License.
