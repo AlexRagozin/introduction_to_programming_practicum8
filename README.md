@@ -17,7 +17,7 @@ The goal of this project is to practise programming skills and learn how to work
 **Installation:**
 1. Download or clone this repository.
 2. Open the project folder.
-3. Run the main program 
+3. Run the main program using python3.
 
 **Usage:**
 1. Start the calculator.
