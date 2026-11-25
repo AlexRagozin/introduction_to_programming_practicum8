@@ -8,5 +8,7 @@ def subtract(a, b):
     return a - b
 
 def devide(a, b):
-    return a / b
-
+    if(b==0):
+        return print("devision by zero is not possible")
+    
+    return a/b
