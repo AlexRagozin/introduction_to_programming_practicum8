@@ -9,6 +9,8 @@ This project is a simple calculator developed by Alex and Yentl as part of a sch
 
 The calculator allows users to perform basic mathematical operations, such as:
 - Addition (+)
+- Subtraction (-)
+- Multiply (*)
 
 The goal of this project is to practise programming skills and learn how to work together on a software project.
 
@@ -17,7 +19,7 @@ The goal of this project is to practise programming skills and learn how to work
 **Installation:**
 1. Download or clone this repository.
 2. Open the project folder.
-3. Run the main program using python.
+3. Run the main program using python3.
 
 **Usage:**
 1. Start the calculator.
